@@ -1,0 +1,50 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling for the header */
+header {
+    background-color: cornflowerblue;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Basic styling for the main content */
+main {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Styling for the content section */
+.content {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Button styling */
+#colorChangeButton {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#colorChangeButton:hover {
+    background-color: #0056b3;
+}
+
+/* Footer styling */
+footer {
+    background-color: grey;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
