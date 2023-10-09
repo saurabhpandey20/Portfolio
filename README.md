@@ -3,7 +3,8 @@
 ## CSS
 ## JAVASCRIPT
 image
-<img src="IMAGE/image.png"/>
+
+<img src="./IMAGE/image.png"/>
 
 
 
